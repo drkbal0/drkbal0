@@ -2,4 +2,4 @@
 
 ![Top Langs](https://github-readme-stats-three-psi-74.vercel.app/api/top-langs/?username=drkBal0&size_weight=0.5&count_weight=0.5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drkBal0&layout=compact)
+![Top Langs](https://github-readme-stats-three-psi-74.vercel.app/api/top-langs/?username=drkBal0&layout=compact)
