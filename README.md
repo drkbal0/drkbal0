@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Hi 👋, I'm Leo Gastelum<br>👨‍💻 Sr. Software Engineer <br><br>- ⚡ A passionate full-stack dev, tech and innovation enthusiast from México, Sonora! 🏜️ </p>
+<p align="center">Hi 👋, I'm Leo Gastelum<br>👨‍💻 Sr. Software Engineer <br><br>- ⚡ A passionate full-stack dev, tech and innovation enthusiast from México, Sonora! 🏜️<br>- 🤝 I am always looking for ways to optimize and improve everything around me. </p>
 
 ###
 
