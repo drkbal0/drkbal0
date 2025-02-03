@@ -62,7 +62,7 @@
   <h1>📊 GitHub Stats:</h1>
   <img src="https://github-readme-stats-three-psi-74.vercel.app/api?username=drkbal0&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=stars,contribs&cache_seconds=1800" alt="GitHub Stats" /><br/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=drkbal0&theme=transparent&hide_border=false&cache_seconds=1800" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats-three-psi-74.vercel.app/api/top-langs/?username=drkbal0&theme=transparent&count_private=true&layout=compact&size_weight=0&count_weight=1&hide=HTML" alt="Top Languages" />
+  <img src="https://github-readme-stats-three-psi-74.vercel.app/api/top-langs/?username=drkbal0&theme=transparent&count_private=true&layout=compact&size_weight=0&count_weight=1" alt="Top Languages" />
 
   
   <br>
