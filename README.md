@@ -59,11 +59,7 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   
   <br>
-  <h1>📊 GitHub Stats:</h1>
-  <img src="https://github-readme-stats-three-psi-74.vercel.app/api?username=drkbal0&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=stars,contribs&cache_seconds=1800" alt="GitHub Stats" /><br/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drkbal0&theme=transparent&hide_border=false&cache_seconds=1800" alt="GitHub Streak" /><br/>
 
-  
   <br>
   <h2>🏆 GitHub Trophies</h2>
   <div align="center">
