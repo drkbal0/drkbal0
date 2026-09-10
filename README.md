@@ -61,8 +61,6 @@
   <br>
 
   <br>
-  <h2>🏆 GitHub Trophies</h2>
-  <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=drkbal0&theme=radical&no-frame=false&no-bg=true&title=Experience,Commits,Issues,PullRequest,Repositories" alt="GitHub Trophies" />
+  
   </div>
 </div>
