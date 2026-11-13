@@ -1,0 +1,19 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Se actualiza solo cada 24 horas
+  workflow_dispatch: # Te permite correrlo con 1 clic cuando quieras
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+        with:
+          USERNAME: drkbal0
+          THEME: github_dark
