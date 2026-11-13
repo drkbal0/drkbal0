@@ -43,43 +43,35 @@
 
   **AI, Data & Enterprise Integrations**
   <p align="center">
-    <img src="https://img.shields.io/badge/SAP_HANA-0D1117?style=flat-square&logo=sap&logoColor=0FAAFF" />
-    <img src="https://img.shields.io/badge/Proxmox_VE-0D1117?style=flat-square&logo=proxmox&logoColor=E57000" />
-    <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
-    <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
-    <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8" />
-    <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=013243" />
-    <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+    <img src="https://img.shields.io/badge/SAP_HANA-0D1117?style=flat-square&logo=sap&logoColor=0FAAFF" alt="SAP HANA" />
+    <img src="https://img.shields.io/badge/Proxmox_VE-0D1117?style=flat-square&logo=proxmox&logoColor=E57000" alt="Proxmox VE" />
+    <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=013243" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Scikit-Learn" />
   </p>
 
 </div>
 
 <br/>
 
-### 📊 GitHub Analytics & Activity
+### 📊 GitHub Analytics & Historical Activity (Since 2015)
 
 <div align="center">
 
-  <!-- TROFEOS -->
-  <picture>
-    <img src="https://github-profile-trophy.vercel.app/?username=drkbal0&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" width="100%" />
-  </picture>
+  <!-- PANORAMA HISTÓRICO GENERAL DE COMMITS (COMPACTO) -->
+  <img height="140em" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
 
   <br/><br/>
 
-  <!-- STATS (INCLUYE COMMITS PRIVADOS) + TOP LANGUAGES -->
-  <a href="https://github.com/drkbal0">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=drkbal0&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Leo's GitHub Stats" />
-  </a>
-  <a href="https://github.com/drkbal0">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drkbal0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-  </a>
+  <!-- GRÁFICAS DE PASTEL: LENGUAJES POR COMMIT + LENGUAJES POR REPO (PÚBLICOS Y PRIVADOS) -->
+  <img height="175em" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Languages by Commit Pie" />
+  <img height="175em" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages by Repo Pie" />
 
   <br/><br/>
 
-  <!-- RACHA DE CONTRIBUCIONES (STREAK) -->
-  <a href="https://github.com/drkbal0">
-    <img height="165em" src="https://streak-stats.demolab.com?user=drkbal0&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-  </a>
+  <!-- DESGLOSE DE TODOS LOS LENGUAJES USADOS (PÚBLICOS + PRIVADOS) -->
+  <img width="480em" src="./github-metrics-langs.svg" alt="All Languages Used" />
 
 </div>
